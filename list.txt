@@ -1,9 +1,9 @@
 #opera
-api.sec-tunnel.com
-nord.appsflyer.com
-vpn-wg.opera.com
-vpn.oppwa.com
-opera-mini.net
+0.0.0.0 api.sec-tunnel.com
+0.0.0.0 nord.appsflyer.com
+0.0.0.0 vpn-wg.opera.com
+0.0.0.0 vpn.oppwa.com
+0.0.0.0 opera-mini.net
 
 # atlasvpn.com
 
