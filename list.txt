@@ -1,3 +1,10 @@
+#opera
+api.sec-tunnel.com
+nord.appsflyer.com
+vpn-wg.opera.com
+vpn.oppwa.com
+opera-mini.net
+
 # atlasvpn.com
 
 0.0.0.0 atlasvpn.com
